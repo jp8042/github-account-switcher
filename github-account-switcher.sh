@@ -4,13 +4,13 @@
 # A tool to easily manage multiple GitHub accounts on the same machine
 
 # Define your GitHub accounts - MODIFY THESE WITH YOUR ACTUAL ACCOUNTS
-WORK_USERNAME="work-username"
-WORK_EMAIL="work@example.com"
-WORK_SSH_KEY="~/.ssh/id_ed25519_work"
+WORK_USERNAME="jevesh-code"
+WORK_EMAIL="jevesh@thesilverlabs.com"
+WORK_SSH_KEY="~/.ssh/id_ed25519"
 WORK_SSH_HOST="github-work"
 
-PERSONAL_USERNAME="personal-username"
-PERSONAL_EMAIL="personal@example.com"
+PERSONAL_USERNAME="jp8042"
+PERSONAL_EMAIL="jevesh8042@gmail.com"
 PERSONAL_SSH_KEY="~/.ssh/id_ed25519_personal"
 PERSONAL_SSH_HOST="github-personal"
 
