@@ -1,0 +1,16 @@
+# Sample SSH configuration for GitHub Account Switcher
+# This should be added to your ~/.ssh/config file
+
+# Work GitHub account
+Host github-work
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_ed25519_work
+   IdentitiesOnly yes
+
+# Personal GitHub account
+Host github-personal
+   HostName github.com
+   User git
+   IdentityFile ~/.ssh/id_ed25519_personal
+   IdentitiesOnly yes
